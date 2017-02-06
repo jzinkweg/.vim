@@ -1,0 +1,7 @@
+*
+!/.gitignore.d
+!/.gitignore.d/vim
+!/.vim
+!/.vim/colors
+!/.vim/colors/badwolf.vim
+!/.vimrc
